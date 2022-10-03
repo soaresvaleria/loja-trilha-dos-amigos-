@@ -1,4 +1,16 @@
-# loja-amigos-de trilha
-loja amigos de trilha localizada na rua vinte de setembro.
-missao atender o mercado de motociclistas ,peças,acessorios com copetencia equalidade ,tratando seus clientes de uma forma personalizada e completa
-o que temos?kit calça +camiseta ,equipamentos infantil,kit de 
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+       <meta charset="UTF_8">
+    # loja-amigos-de trilha
+    <link rel=>stylesheet"href="style.css">
+</head> 
+<body>
+   <h1 style="text-align:center;background:#cccccc">
+
+<p>loja amigos de trilha localizada na rua vinte de setembro<strong>
+<p style="font-size:20px;"><m nossa missao e:<strong   missao atender o mercado de motociclistas ,peças,acessorios com copetencia equalidade ,tratando seus clientes de uma forma personalizada e completa
+p>o que temos?kit calça +camiseta ,equipamentos infantil,kit de equipamentos motocross ,filtro de ar,cabo de acelerador e embreagem 
+,guia da corrente ,peças para suspensao
+</body>
+</html>
